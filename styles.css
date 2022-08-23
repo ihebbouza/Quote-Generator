@@ -74,6 +74,7 @@ body {
 
 .main-content .btn-area button:active {
     background-color: lightblue;
+    color: black;
 }
 
 
